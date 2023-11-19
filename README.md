@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Securing Systems: Exploring File Permissions in Linux</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Securing Systems Exploring File Permissions in Linux](https://github.com/Pentyfada/Securing-Systems-Exploring-File-Permissions-in-Linux/blob/main/README.md)
 - <b>Incident Insight: Analysing Security Breaches and Response Strategies</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>SQL Queries and Database Solutions</b>
