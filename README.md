@@ -3,9 +3,9 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Securing Systems: Exploring File Permissions in Linux</b>
-  - [Securing Systems Exploring File Permissions in Linux](https://github.com/Pentyfada/Securing-Systems-Exploring-File-Permissions-in-Linux/blob/main/README.md)
+  - [Securing Systems by Exploring File Permissions in Linux](https://github.com/Pentyfada/Securing-Systems-Exploring-File-Permissions-in-Linux/blob/main/README.md)
 - <b>Incident Insight: Analysing Security Breaches and Response Strategies</b>
-  - [Incident Analysis](https://github.com/Pentyfada/Indepth-incident-analysis/blob/main/README.md) <b><i>(Potentially NSFW)</b></i>
+  - [Incident Analysis](https://github.com/Pentyfada/Indepth-incident-analysis/blob/main/README.md) <b><i></b></i>
 - <b>SQL Queries and Database Solutions</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
