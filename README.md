@@ -7,16 +7,16 @@
 - <b>Incident Insight: Analysing Security Breaches and Response Strategies</b>
   - [Incident Analysis](https://github.com/Pentyfada/Indepth-incident-analysis/blob/main/README.md) <b><i></b></i>
 - <b>SQL Queries and Database Solutions</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Pentyfada/Securing-Systems-Exploring-File-Permissions-in-Linux/blob/main/README.md)
+  - [JWipe (Disk Wiping Utility)](https://github.com/Pentyfada/Securing-Systems-Exploring-File-Permissions-in-Linux/blob/main/README.md)
+  - [Active Directory Bulk User Creation](https://github.com/Pentyfada/Securing-Systems-Exploring-File-Permissions-in-Linux/blob/main/README.md)
+  - [FIM (File Integrity Monitor)](https://github.com/Pentyfada/Securing-Systems-Exploring-File-Permissions-in-Linux/blob/main/README.md)
 - <b>Network Design</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/Pentyfada/Securing-Systems-Exploring-File-Permissions-in-Linux/blob/main/README.md)
+  - [Ransomware Proof of Concept (Decrypter)](https://github.com/Pentyfada/Securing-Systems-Exploring-File-Permissions-in-Linux/blob/main/README.md)
+  - [Keylogger with Email Capability](https://github.com/Pentyfada/Securing-Systems-Exploring-File-Permissions-in-Linux/blob/main/README.md)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/Pentyfada/Malware-analysis/edit/main/README.md))
 - <b>Malware Traffic Analysis</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/Pentyfada/Malware-analysis/edit/main/README.md)
 
@@ -35,11 +35,9 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
 
+[youtube]: https://www.youtube.com/c/joshmadakor
+[linkedin]: https://www.linkedin.com/in/pentecostfada
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
