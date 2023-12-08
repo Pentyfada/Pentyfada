@@ -18,7 +18,7 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/Pentyfada/Malware-analysis/edit/main/README.md))
 - <b>Python</b>
-  - [Automated IP Access Management System<)](https://github.com/Pentyfada/Malware-analysis/edit/main/README.md)
+  - [Automated IP Access Management System](https://github.com/Pentyfada/Malware-analysis/edit/main/README.md)
 
 <h2>📺 Popular YouTube Videos</h2>
 
