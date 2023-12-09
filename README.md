@@ -16,7 +16,7 @@
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/Pentyfada/Securing-Systems-Exploring-File-Permissions-in-Linux/blob/main/README.md)
   - [Keylogger with Email Capability](https://github.com/Pentyfada/Securing-Systems-Exploring-File-Permissions-in-Linux/blob/main/README.md)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/Pentyfada/Malware-analysis/edit/main/README.md))
+  - [Automated IP Access Management System](https://github.com/Pentyfada/Malware-analysis/edit/main/README.md))
 - <b>Malware Analysis</b>
   - [Automated IP Access Management System](https://github.com/Pentyfada/Malware-analysis/edit/main/README.md)
 
