@@ -18,7 +18,7 @@
 - <b>Python</b>
   - [Automated IP Access Management System](https://github.com/Pentyfada/Malware-analysis/edit/main/README.md))
 - <b>Malware Analysis</b>
-  - [Automated IP Access Management System](https://github.com/Pentyfada/Malware-analysis/edit/main/README.md)
+  - [Malware Traffic Analysis](https://github.com/Pentyfada/Malware-analysis/edit/main/README.md)
 
 <h2>📺 Popular YouTube Videos</h2>
 
