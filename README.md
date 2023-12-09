@@ -8,7 +8,7 @@
   - [Incident Analysis](https://github.com/Pentyfada/Indepth-incident-analysis/blob/main/README.md) <b><i></b></i>
 
 - <b>Python</b>
-  [Incident Analysis](https://github.com/Pentyfada/Indepth-incident-analysis/blob/main/README.md) <b><i></b></i>
+  [Automated IP Access Management System](https://github.com/Pentyfada/Python-Script-for-Automated-IP-Address-Access-Control/blob/main/README.md) <b><i></b></i>
 - <b>SQL Queries and Database Solutions</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Pentyfada/Securing-Systems-Exploring-File-Permissions-in-Linux/blob/main/README.md)
   - [JWipe (Disk Wiping Utility)](https://github.com/Pentyfada/Securing-Systems-Exploring-File-Permissions-in-Linux/blob/main/README.md)
