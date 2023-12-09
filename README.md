@@ -8,7 +8,7 @@
   - [Incident Analysis](https://github.com/Pentyfada/Indepth-incident-analysis/blob/main/README.md) <b><i></b></i>
 
 - <b>Python</b>
-  [Automated IP Access Management System](https://github.com/Pentyfada/Python-Script-for-Automated-IP-Address-Access-Control/blob/main/README.md) <b><i></b></i>
+  -  [Automated IP Access Management System](https://github.com/Pentyfada/Python-Script-for-Automated-IP-Address-Access-Control/blob/main/README.md) <b><i></b></i>
 - <b>SQL Queries and Database Solutions</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Pentyfada/Securing-Systems-Exploring-File-Permissions-in-Linux/blob/main/README.md)
   - [JWipe (Disk Wiping Utility)](https://github.com/Pentyfada/Securing-Systems-Exploring-File-Permissions-in-Linux/blob/main/README.md)
@@ -24,11 +24,11 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [How to get into Cybersecurity Starting From Zero](www.youtube.com/@Cyber_techspace)
+- [Introduction to Wireshark](www.youtube.com/@Cyber_techspace)
+- [You Have Been Hacked](www.youtube.com/@Cyber_techspace)
+- [Ransomware Demonstration)](www.youtube.com/@Cyber_techspace)
+- [Why Compliance is a Big Deal!](www.youtube.com/@Cyber_techspace)
 
 <h2> 🤳 Connect with me:</h2>
 
